@@ -1,0 +1,4 @@
+[submodule "l10n_ve_portal"]
+	path = l10n_ve_portal
+	url = git@github.com:corportal/l10n_ve_portal.git
+	branch = v19/migration
